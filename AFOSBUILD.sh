@@ -1,3 +1,5 @@
+export GOPATH=/home/andrax/go
+
 GO111MODULE=on go get github.com/jaeles-project/jaeles
 
 strip /home/andrax/go/bin/jaeles
